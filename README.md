@@ -1,5 +1,7 @@
 # AB TESTING  : This is an implementation with some experiments or both traditional and bayesian ab testing
 
+[ This file is being edited ]
+
 **Traditional AB testing** : conventional approach using z_test ans t_test
 **Bayesian AB testing** : For online application using various adaptive methods
 
